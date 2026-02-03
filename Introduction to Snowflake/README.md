@@ -3,6 +3,8 @@ This first course from **Datacamp** Covers Snowflake basics including navigating
 
 Snowflake is a leading AI Data Cloud & data warehousing platform used by thousands of companies. It's commonly used by Data Engineers and analysts. A data warehouse is a repository for storing large amounts of data. It is designed to support historical analysis and reporting using SQL. In an analytics workflow, source data is transformed with business-defined logic and loaded into tables in the data warehouse. The tables get queried for analysis, reporting, and dashboard insights.
 
+![snowflake](https://github.com/Swatikhedekar/Snowflake-from-Scratch/blob/main/Introduction%20to%20Snowflake/assets/image.png))
+
 1. Navigating to a database and schema
 2. Navigating to a table
 3. Executing a query and vieving the result
